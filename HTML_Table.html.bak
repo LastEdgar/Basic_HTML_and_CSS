@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- This is a first draft of using tables for my dumb game opinions-->
+<head>
+</head>
+<body>
+	<h1>Best Releases By Studio According to Me</h1>
+	<table style="width:100%">
+		<tr>
+			<th>Name</th>
+			<th>Best Release</th>
+			<th>Year</th>
+			<th>Notes</th>
+		</tr>
+		<tr>
+			<td>CD Projekt Red</td>
+			<td>The Witcher 3</td>
+			<td>2015</td>
+			<td style ="text-align:center">But achievements broke for lots of us:( </td>
+			
+		</tr>
+		<tr>
+			<td>Bethesda</td>
+			<td>Skyrim</td>
+			<td>2011</td>
+			<td style ="text-align:center">Stealth archer is like carcinisation, inevitable</td>
+		</tr>
+		<tr>
+			<td>Larian Studios</td>
+			<td>Divinity Original Sin II</td>
+			<td>2017</td>
+			<td style ="text-align:center">Incredible title like if dnd left the table</td>
+		</tr>
+		
+		</table>
+</body>
+</html>
+		
+		
+			

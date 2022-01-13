@@ -1,0 +1,14 @@
+td:hover {
+	background-color:gold;
+	color:Black;
+}
+
+table {
+	border: 2px solid Black;
+}
+
+tr, th {
+	color: purple;
+	background-color: white;
+}
+

@@ -1,0 +1,6 @@
+p {
+	color: ochre;
+	background: aqua;
+	font-weight: bold;
+	text-align: left;
+}
