@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body>
+	<section>
+		<h3> This section is about GiraffeCorp&copy;</h3>
+		<p> Those <span style="color:yellow;font-weight:bold">yellow</span> necks go up so far.<br>
+		That's why GirrafeCorp&copy; &nbsp; is so successful!
+		</p>
+	</section>
+</body>
+</html>
