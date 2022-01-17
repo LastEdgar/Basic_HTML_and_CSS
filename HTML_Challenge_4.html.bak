@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+	</head>	
+	<body>
+		<div>
+		<article>
+			<h2> Test Article</h2>
+			<p>Content for said article</p>
+		</article>
+		</div>
+		
+		<div>
+			<details>
+				<summary>Click for a dropdown</summary>
+				<p>This is where I keep all my plaintext secrets locked away.<br>
+				It is <time> 9:00PM</time> at the time of writing.</p>
+			</details>
+		</div>
+		
+	
